@@ -1,0 +1,31 @@
+<html>
+<style>
+h1{
+    position : "centre";
+    position-type: absolute;
+    padding=20px;
+    background-color: hue(0.5,0.5,0.5);
+    font-family: serif;
+}
+ul{
+    font-family: cursive;
+}
+body{
+background-image : url(https://w.wallhaven.cc/full/8o/wallhaven-8ogod1.jpg) ;
+}
+</style>
+<body>
+</body>
+<h1>About me</h1>
+<ul>
+<li>My name is Shivang Shukla.</li>
+<li>I am currently learning Web Development</li>
+<li>I know basic HTML and CSS</li>
+<li><a href=https://github.com/shivangshkla/shivangshkla>Here is my GIThub</a></li>
+</ul>
+<form>
+<label for="tips">Any_Tip:</label>
+<input type: "text" id:"tips" name:"tips">
+<button>Submit</button>
+</form> 
+</html>
